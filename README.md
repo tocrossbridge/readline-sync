@@ -5,7 +5,7 @@
 
 ## Descrição
 
-Uso da lib readline-sync para resolver exercícios do HackerRank e joguinhos de terminal :D
+Uso da lib [readline-sync](https://www.npmjs.com/package/readline-sync) para resolver exercícios do HackerRank e joguinhos de terminal :D
 
 Meu perfil no hackerrank:
 <br>
